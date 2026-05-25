@@ -438,7 +438,7 @@ export function SessionTable() {
 
       <div className="flex items-center justify-between px-4 py-2.5 border-t border-white/[0.06]">
         <div className="flex items-center gap-2">
-          <span className="text-[11.5px] text-white/35">Rows per page</span>
+          <span className="text-[11.5px] text-white/35">Rows</span>
           <select
             value={pageSize}
             onChange={(e) => setPageSize(Number(e.target.value))}
