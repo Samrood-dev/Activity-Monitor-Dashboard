@@ -1,5 +1,14 @@
 # Activity Monitor Dashboard
 
+Desktop view
+<img width="2874" height="1492" alt="image" src="https://github.com/user-attachments/assets/931138ad-8618-405c-ae24-19147a051000" />
+
+<img width="2878" height="1498" alt="image" src="https://github.com/user-attachments/assets/b16679d2-dda0-41f4-8aed-87a701a13730" />
+
+mobile view
+<img width="726" height="1296" alt="image" src="https://github.com/user-attachments/assets/a7ecab1e-cba5-4089-bd2a-d927df4a0313" />
+
+
 A comprehensive monitoring dashboard for tracking user sessions with real-time activity metrics, risk assessment, and detailed session analytics. Built with modern web technologies for performance and user experience.
 
 ## Project Overview
