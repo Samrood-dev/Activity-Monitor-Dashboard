@@ -20,7 +20,7 @@ export function Header({ setSidebarOpen }: HeaderProps) {
         onClick={() => {
           setSidebarOpen((prev) => !prev);
         }}
-        className="lg:hidden cursor-pointer"
+        className="lg:hidden cursor-pointer pr-2"
       >
         <Menu size={20} />
       </div>
