@@ -192,6 +192,7 @@ npm build
 # Start production server
 npm start
 
-Open [http://localhost:3000](http://localhost:3000) in your browser. The dashboard redirects from `/` to `/dashboard`.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+The dashboard redirects from `/` to `/dashboard`.
 
 ```
